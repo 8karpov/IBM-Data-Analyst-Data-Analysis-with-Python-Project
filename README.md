@@ -1,4 +1,6 @@
 # Data Analysis with Python Project
+This project was completed during completing the IBM Data Analyst Professional Certificate program
+
 # Final Project Scenario
 
 In this assignment, I was a Data Analyst working at a Real Estate Investment Trust. The Trust would like to start investing in Residential real estate. I was tasked with determining the market price of a house given a set of features. I analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on. A template notebook is provided in the lab; My job was to complete the ten questions. Some hints to the questions were given in the template notebook.
